@@ -1,0 +1,19 @@
+{
+  "name": "npm-publish-test-lzy",
+  "version": "1.0.0",
+  "description": "npm-publish-test-lzy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HappyCoder01/npm-publish-test-lzy.git"
+  },
+  "author": "lizhiyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HappyCoder01/npm-publish-test-lzy/issues"
+  },
+  "homepage": "https://github.com/HappyCoder01/npm-publish-test-lzy#readme"
+}
